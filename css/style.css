@@ -21,7 +21,7 @@ link {
 *menu
 */
 nav {
-    background-color: #092635;
+    background-color:#222831;
     color: #fff;
     position: sticky;
     top: 0;
@@ -63,7 +63,7 @@ nav > .wrapper {
 *Hero / Jumbotron
 */
 header {
-    background: url("../images/bg-header.jpeg");
+    background: url("../images/background.jpg");
     height: 100vh;
     background-position: center center;
     background-size: cover;
@@ -71,10 +71,10 @@ header {
     position: relative;
     font-family: 'Kanit', sans-serif;
     letter-spacing: 5px;
-    text-shadow: 0 0 4px #000;
+    text-shadow: 0 0 4px #000000;
 }
 .header-opacity {
-    background-color: #092635;
+    background-color: #222831;
     width: 100%;
     height: 100%;
     opacity: 0.7;
@@ -97,7 +97,7 @@ header {
 
 .header-jumbotron > h4 {
     color: #face1e;
-    font-size: 2rem;
+    font-size: 2.5rem;
     margin: 0px;
     padding: 0px;
 
@@ -106,7 +106,7 @@ header {
     color: #fff;
     margin: 0px;
     padding: 5px;
-    font-size: 3.5rem;
+    font-size: 5rem;
     line-height: 4rem;
     text-transform: uppercase;
 }
@@ -114,6 +114,7 @@ header {
     padding: 5px;
     margin: 0px 5px 20px 5px;
     color: #fff;
+    font-size: 2rem;
 }
 
 a {
@@ -133,7 +134,7 @@ a {
     font-family: 'Kanit', sans-serif;
 }
 .button-xl{
-    font-size: 1.4rem;
+    font-size: 2rem;
     padding: 20px;
 }
 
@@ -176,7 +177,7 @@ a {
 *premium course
 */
 #premium-course {
-    background-color: #092635;
+    background-color: #222831;
     color: #fff;
 }
 
@@ -293,7 +294,7 @@ a {
     width: 70%;
     padding: 20px;
     margin: 10px;
-    background-color: #fff;
+    background-color: #DFF5FF;
     border-radius: 10px;
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
@@ -322,7 +323,7 @@ a {
 *free course
 */
 #free-course {
-    background-color: #393E46;
+    background-color: #31363F;
     color: #fff;
 }
 
@@ -365,7 +366,7 @@ a {
 }
 
 #free-course > .wrapper > .grid > .item > .item-detail > div {
-    padding: 10px 20px 10px 20px;
+    padding: 5px 10px 5px 10px;
 }
 
 /*
